@@ -7,7 +7,7 @@ Homzes is a Flutter mobile application for browsing real estate properties. It f
 ## Demo Video
 
 (https://player.cloudinary.com/embed/?public_id=inter%2FScreen_Recording_20250306_211337_ifqgpn&cloud_name=dx7npz85q&profile=cld-default)]
-
+https://res.cloudinary.com/dx7npz85q/video/upload/v1741275965/inter/Screen_Recording_20250306_211337_ifqgpn.mp4
 ## Features
 
 - **Property Browsing**: Browse featured properties, new offers, and popular rentals
